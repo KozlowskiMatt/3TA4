@@ -1,1 +1,1 @@
-# Labs for MECHTRON 3TA4 @McMaster University
+# MECHTRON 3TA4 @McMaster University
